@@ -76,6 +76,8 @@ print(fee*month, "원")
 
 
 
+# Day 3
+
 
 
 
